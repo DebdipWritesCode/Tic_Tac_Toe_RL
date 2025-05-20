@@ -13,7 +13,7 @@ It showcases how AI can learn and optimize decision-making in classic games usin
 
 | File                      | Description                                                                                                |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| `tictactoe_rl.ipynb`      | Implements Q-learning for training and simulating RL agents playing against each other.                    |
+| `tictactoe_rl.ipynb`      | Implements PPO for training and simulating RL agents playing against each other.                    |
 | `tictactoe_minimax.ipynb` | Implements the MiniMax algorithm with memoization to play optimally against the RL agent or human players. |
 
 ---
