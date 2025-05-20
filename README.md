@@ -2,7 +2,7 @@
 
 This project implements a Tic Tac Toe game using two intelligent agents:
 
-* A **Reinforcement Learning (RL)** agent trained via Q-Learning.
+* A **Reinforcement Learning (RL)** agent trained via PPO.
 * An agent based on the **MiniMax algorithm** with memoization for optimization.
 
 It showcases how AI can learn and optimize decision-making in classic games using two powerful paradigms: model-free RL and adversarial search.
