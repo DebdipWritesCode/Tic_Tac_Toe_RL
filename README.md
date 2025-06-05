@@ -20,7 +20,7 @@ It showcases how AI can learn and optimize decision-making in classic games usin
 
 ## 🎮 Features
 
-* ✅ RL vs RL gameplay: two agents learn optimal strategies via self-play.
+* ✅ RL vs RL gameplay: Two agents learn optimal strategies via self-play.
 * ✅ RL agent trained using Q-learning with ε-greedy policy.
 * ✅ MiniMax agent with pruning and memoization for speed.
 * ✅ Visual and tabular result tracking (wins, losses, draws).
